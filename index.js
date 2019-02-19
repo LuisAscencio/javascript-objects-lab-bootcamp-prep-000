@@ -1,4 +1,4 @@
-var recipes={salt:"low",peper:"mid"}
+var recipes={}
 
 
 var updateObjectWithKeyAndValue= recipes,spice,amount}
