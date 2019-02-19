@@ -6,5 +6,6 @@ function updateObjectWithKeyAndValue (recipes,spice,amount){
 
 
 function destructivelyUpdateObjectWithKeyAndValue (recipes,spice,amount){ 
+  
   return recipes
 }
