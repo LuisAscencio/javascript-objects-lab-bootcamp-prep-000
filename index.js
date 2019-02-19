@@ -9,3 +9,4 @@ function destructivelyUpdateObjectWithKeyAndValue (recipes,spice,amount){
   recipes[spice]=amount
   return recipes
 }
+
