@@ -1,6 +1,8 @@
 var recipes={}
 
-var updateObjectWithKeyAndValue= (recipes,spice,amount){ }
+var updateObjectWithKeyAndValue= (recipes,spice,amount){ 
+  return recipes
+}
 
 
 return  recipes
